@@ -36,7 +36,7 @@
 <p>
  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <h3 align="center">Connect with me:</h3>
-<p align="center"> <a href="https://linkedin.com/in/rashida" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashida" height="30" width="40" /></a>
+<p align="center"> <a href="https://linkedin.com/in/rashida911" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashida" height="30" width="40" /></a>
 <a href="mailto:rashidarashi8387@gmail.com" target="_blank"><img  src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo"  /> </a>
 
 </p> 
